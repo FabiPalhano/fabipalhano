@@ -14,7 +14,8 @@
 
 ---
   
-### 👋 Olá Dev! Seja muito Bem Vind* ao Meu Perfil do GitHub! 👋
+### 👋 Olá Dev! 👋
+### Seja muito Bem Vind* ao Meu Perfil do GitHub!
 
 - 🔭 Atualmente sou Servidora Pública Estadual e atuo como Técnico Operacional da Saúde no IRS/FHEMIG.
 - 🌱 Estou Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, na PUC Minas.
