@@ -17,7 +17,7 @@
 - 🚀 Você pode também conhecer meu Currículo no [Linkedin](https://www.linkedin.com/in/fabiana-bicalho-p-r-cossenzo) e meus projetos desenvolvidos e em fase de aprendizado, que estão disponíveis nos repositórios aqui no [GitHub](https://github.com/fabipalhano). :blush:
 
 ---
-
+<!--
 <div>
 <a href="https://www.instagram.com/fabianapalhano_fbprc/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
@@ -31,6 +31,7 @@
 </div>
 
 ---
+-->
 
 <div>
 <a href="https://github.com/fabipalhano">
@@ -91,7 +92,7 @@
 ### Contatos:
 
 <div>
-  <a href="https://instagram.com/fabianapalhano_fbprc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/fabiana-bicalho-p-r-cossenzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:cossenzo04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/fabianapalhano_fbprc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/fabiana-bicalho-p-r-cossenzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:cossenzo04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://twitter.com/fabianapalhano" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
   
 ---
