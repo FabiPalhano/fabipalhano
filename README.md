@@ -64,5 +64,5 @@
 </div>
   
   
-![Snake animation](https://github.com/fabipalhano/fabipalhano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fabipalhano/blob/output/github-contribution-grid-snake.svg)
           
