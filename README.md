@@ -1,19 +1,8 @@
-<img align="right" widht="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/89549220/166165879-bfebac85-3212-4515-b825-c2349aba3af5.png">
+<img align="right" widht="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/89549220/166166152-a1da1fe1-dcb0-4088-b1ca-7ac6fc21f459.png">
 
 <br>
 <div display="inline-block">
- 
  <h1 align="left">Fabiana Palhano</h1>
-  
- <a href="https://www.instagram.com/fabianapalhano_fbprc/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://twitter.com/fabianapalhano">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/fabiana-bicalho-p-r-cossenzo">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
 </div>
 
 ---
@@ -30,9 +19,23 @@
 ---
 
 <div>
+<a href="https://www.instagram.com/fabianapalhano_fbprc/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/fabianapalhano">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/fabiana-bicalho-p-r-cossenzo">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
+---
+
+<div>
 <a href="https://github.com/fabipalhano">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabipalhano&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabipalhano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabipalhano&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabipalhano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
