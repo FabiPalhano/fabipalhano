@@ -6,13 +6,13 @@
  
  <h1 align="left">Fabiana Palhano</h1>
   
- <a href="https://www.instagram.com/jeniblo_dev/">
+ <a href="https://www.instagram.com/fabianapalhano_fbprc/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="https://twitter.com/jeniblo_dev">
+  <a href="https://twitter.com/fabianapalhano">
     <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+  <a href="https://www.linkedin.com/in/fabiana-bicalho-p-r-cossenzo">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
@@ -82,9 +82,9 @@
 <div>
   <a href="https://instagram.com/fabianapalhano_fbprc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/fabiana-bicalho-p-r-cossenzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
-  <a href = "mailto:contato@cossenzo04"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cossenzo04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
 ---
