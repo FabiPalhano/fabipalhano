@@ -1,8 +1,7 @@
+<img align="right" widht="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/89549220/166165879-bfebac85-3212-4515-b825-c2349aba3af5.png">
 
-</br>
-</br>
-
-<div dsplay="inline-block">
+<br>
+<div display="inline-block">
  
  <h1 align="left">Fabiana Palhano</h1>
   
