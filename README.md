@@ -15,12 +15,12 @@
 ---
   
 ### 👋 Olá Dev! 👋
-### Seja muito Bem Vind* ao Meu Perfil do GitHub!
+### Seja muito Bem Vindo ao Meu Perfil do GitHub!
 
 - 🔭 Atualmente sou Servidora Pública Estadual e atuo como Técnico Operacional da Saúde no IRS/FHEMIG.
 - 🌱 Estou Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, na PUC Minas.
 - 🤔 Estou em processo de transição de carreira, pois sou formada em Fisioterapia. Se for possível unificar as carreiras, considero um fator importante, pois cada vez mais a tecnologia ganha espaço na área da saúde.
-- ⚡ Fun fact: Tenho um filho lindo de 06 anos e hoje ele é minha maior prioridade! Quero dar a ele o melhor em todas as áreas! Adoro games e tecnologia.
+- ⚡ Fun fact: Tenho um filho lindo de 07 anos e hoje ele é minha maior prioridade! Quero dar a ele o melhor em todas as áreas! Adoro games e tecnologia.
 - 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/fabianapalhano_fbprc) ou pelo [Twitter](https://twitter.com/fabianapalhano)
 - 🚀 Você pode também conhecer meu Currículo no [Linkedin](https://www.linkedin.com/in/fabiana-bicalho-p-r-cossenzo) e meus projetos desenvolvidos e em fase de aprendizado, que estão disponíveis nos repositórios aqui no [GitHub](https://github.com/fabipalhano). :blush:
 
