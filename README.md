@@ -20,7 +20,7 @@
 - 🔭 Atualmente sou Servidora Pública Estadual e atuo como Técnico Operacional da Saúde no IRS/FHEMIG.
 - 🌱 Sou formada como Tecnólogo em Análise e Desenvolvimento de Sistemas, na PUC Minas.
 - 🤔 Estou em processo de transição de carreira, pois também sou formada em Fisioterapia. Se for possível unificar as carreiras, considero um fator importante, pois cada vez mais a tecnologia ganha espaço na área da saúde.
-- ⚡ Fun fact: Adoro games e tecnologia. Tenho um filho lindo de 08 anos e hoje ele é uma das minhas prioridades! Quero dar a ele o melhor em todas as áreas! 
+- ⚡ Fun fact: Adoro games e tecnologia. Tenho um filho lindo de 10 anos e hoje ele é uma das minhas prioridades! Quero dar a ele o melhor de tudo! 
 - 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/fabianapalhano_fbprc) ou pelo [Twitter](https://twitter.com/fabianapalhano)
 - 🚀 Você pode também conhecer meu Currículo no [Linkedin](https://www.linkedin.com/in/fabiana-bicalho-p-r-cossenzo) e meus projetos desenvolvidos e em fase de aprendizado, que estão disponíveis nos repositórios no [CodePen](https://codepen.io/fabipalhano) e aqui no [GitHub](https://github.com/fabipalhano). :blush:
 
